@@ -3,7 +3,7 @@
 ### Hi guys👋
 Vishal Dhaduk here, a passionate Mobile Application Developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the user experience, product architecture, and code quality of the things I build.
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source., many thanks !.
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source, many thanks !.
 
 <!-- 
 <p>
